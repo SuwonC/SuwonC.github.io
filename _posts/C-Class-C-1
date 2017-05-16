@@ -1,0 +1,16 @@
+---
+layout: post
+title: C언어 개발일지 - C-1
+---
+
+오늘의 목표 : 'Hello World!' 출력시키기!
+
+소스코드 : 
+'''c
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World!\n");
+  return 0;
+}
+'''
